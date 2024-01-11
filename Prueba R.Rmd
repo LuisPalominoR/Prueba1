@@ -1,0 +1,16 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+Primer código de R
+
+```{r}
+a=30
+b=40
+c=a+b
+```
+```{r}
+c
+```
+
